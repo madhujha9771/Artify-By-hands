@@ -23,8 +23,5 @@
 
 
 
-### WORK DONE BY :
-### SUWARNA SHUKLA
-### MADHU KUMAR JHA
 
 
